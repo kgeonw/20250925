@@ -3,10 +3,10 @@
         "chainId": 250925,
         "homesteadBlock": 0,
         "eip150Block": 0,
-        "eip155Block": 0
+        "eip155Block": 0,
         "eip158Block": 0,
         "byzantiumBlock": 0,
-        "constantinopleBlock": 0, // SHL Opcode가 포함된 하드포크
+        "constantinopleBlock": 0, 
         "petersburgBlock": 0,
         "istanbulBlock": 0,
         "berlinBlock": 0,
